@@ -10,4 +10,8 @@ console.log('- ' + aluno2);
 console.log('- ' + aluno3);
 console.log('- ' + aluno4);
 console.log('');
+console.log('');
+console.log('');
+console.log('');
+console.log('');
 console.log('Fim do Programa');
